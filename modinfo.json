@@ -1,0 +1,24 @@
+{
+	"name": "Ash and Blood Server Mod",
+	"description": "Version: 1.1.6\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
+	"changeNote": "Updated devkit version",
+	"author": "TModano, Fae, Tiktaalik",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 8,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3602660980",
+	"steamTestLivePublishedFileId": "",
+	"steamWorkshopFileIds":
+	{
+		"mainClient": "3734761484",
+		"publicBetaClient": "3738170136"
+	},
+	"steamVisibility": 3,
+	"folderName": "ash_and_blood",
+	"devkitRevisionNumber": 1001,
+	"devkitSnapshotId": 0,
+	"fileSize": -800267552,
+	"minimumVersion": "Enhanced"
+}
