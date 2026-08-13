@@ -1,7 +1,7 @@
 {
 	"name": "Ash and Blood Server Mod",
 	"description": "Version: 1.1.15\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
-	"changeNote": "Added visual hint to storage chest.\r\nBlocked dropping currency, except in chests etc\r\nAdded inventory back to placeables not replaced, animal pens, wheel of pains, sorcery benches etc.",
+	"changeNote": "Material fix processing bench bucket\r\nTweaking container sizes, esp those that didn't work.",
 	"author": "TModano, Fae, Tiktaalik",
 	"authorUrl": "",
 	"versionMajor": 1,
