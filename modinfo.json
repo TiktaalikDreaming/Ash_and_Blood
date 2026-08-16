@@ -1,12 +1,12 @@
 {
 	"name": "Ash and Blood Server Mod",
-	"description": "Version: 1.1.16\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
-	"changeNote": "Material fix processing bench bucket\r\nTweaking container sizes, esp those that didn't work.  No idea why some didn't work, so just trying again.\r\nAdded recipes for crafting/processing benches.\r\nReintroduce blocking build hammer without a clan\r\nAdded a small collection of example Khitai skins",
+	"description": "Version: 1.1.17\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
+	"changeNote": "Fix material requirements for A&B benches to need stone and wood, not stone and iron bars\r\nAdjust PVE down time to 10s from 15s.  PVP still set at 30s\r\nRemove inventory locks for now\r\nAdd example Rapier and maybe off hand dagger skins.  Also a fencing buckler,and a longsword plus arming sword and an actual bec de corbin (totally wasn't the game's depiction of a BDC that drove me to start making weapon mods)",
 	"author": "TModano, Fae, Tiktaalik",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 16,
+	"versionBuild": 17,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "3602660980",
 	"steamTestLivePublishedFileId": "",
@@ -14,7 +14,7 @@
 	{
 		"mainClient": "3734761484"
 	},
-	"steamVisibility": 3,
+	"steamVisibility": 0,
 	"folderName": "ash_and_blood",
 	"devkitRevisionNumber": 1001,
 	"devkitSnapshotId": 0,
