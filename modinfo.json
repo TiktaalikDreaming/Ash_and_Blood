@@ -1,22 +1,23 @@
 {
-  "name": "Ash and Blood Server Mod",
-  "description": "Version: 1.1.19\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
-  "changeNote": "Converted BarKeeps to a mix of performer and cook, which blocks their use on the tavern system.\r\nAdded norse sword and scabbard, a spear, a shield, and 3 axes.\r\nHopefully made the Aquilonian Longsword more viable on different movesets.",
-  "author": "TModano, Fae, Tiktaalik",
-  "authorUrl": "",
-  "versionMajor": 1,
-  "versionMinor": 1,
-  "versionBuild": 19,
-  "bRequiresLoadOnStartup": false,
-  "steamPublishedFileId": "3602660980",
-  "steamTestLivePublishedFileId": "",
-  "steamWorkshopFileIds": {
-    "mainClient": "3734761484"
-  },
-  "steamVisibility": 0,
-  "folderName": "ash_and_blood",
-  "devkitRevisionNumber": 1001,
-  "devkitSnapshotId": 0,
-  "fileSize": -800267552,
-  "minimumVersion": "Enhanced"
+	"name": "Ash and Blood Server Mod",
+	"description": "Version: 1.1.19\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
+	"changeNote": "Converted BarKeeps to a mix of performer and cook, which blocks their use on the tavern system.\r\nAdded norse sword and scabbard, a spear, a shield, and 3 axes.\r\nHopefully made the Aquilonian Longsword more viable on different movesets.\r\nAdded an invisible doorframe.  Note: Still needs to sit on a foundation, untill I can convince it it doesn't need to",
+	"author": "TModano, Fae, Tiktaalik",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 19,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "3602660980",
+	"steamTestLivePublishedFileId": "",
+	"steamWorkshopFileIds":
+	{
+		"mainClient": "3734761484"
+	},
+	"steamVisibility": 0,
+	"folderName": "ash_and_blood",
+	"devkitRevisionNumber": 1001,
+	"devkitSnapshotId": 0,
+	"fileSize": -800267552,
+	"minimumVersion": "Enhanced"
 }
