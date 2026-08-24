@@ -1,7 +1,7 @@
 {
 	"name": "Ash and Blood Server Mod",
 	"description": "Version: 1.1.20\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
-	"changeNote": "Shrunk the Bidenhander/Spadone.  Was 2.25m, so a bit oversized.  Neww size is aimed at 1.44m, scaled up by 10% for conanisms.\r\nShrunk the \"katana\" aka bastard sword, by less, but still some.\r\nAdded Mainz Gladius for a short sword.\r\nAdded 2 handed mace.\r\nAdded a Partisan for the 2h Spear that I forgot I already had.",
+	"changeNote": "Shrunk the Bidenhander/Spadone.  Was 2.25m, so a bit oversized.  Neww size is aimed at 1.44m, scaled up by 10% for conanisms.\r\nShrunk the \"katana\" aka bastard sword, by less, but still some.\r\nAdded Mainz Gladius for a short sword.\r\nAdded 2 handed mace, that totally reminds me of a Goedendag making me slightly sad I didn't make one of those instead.\r\nAdded a Partisan for the 2h Spear that I forgot I already had.\r\nAdded two guard badges for use in ToT",
 	"author": "TModano, Fae, Tiktaalik",
 	"authorUrl": "",
 	"versionMajor": 1,
@@ -12,8 +12,7 @@
 	"steamTestLivePublishedFileId": "",
 	"steamWorkshopFileIds":
 	{
-		"mainClient": "3734761484",
-		"publicBetaClient": "3786514881"
+		"mainClient": "3734761484"
 	},
 	"steamVisibility": 0,
 	"folderName": "ash_and_blood",
