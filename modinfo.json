@@ -1,23 +1,25 @@
 {
 	"name": "Ash and Blood Server Mod",
-	"description": "Version: 1.1.19\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
-	"changeNote": "Converted BarKeeps to a mix of performer and cook, which blocks their use on the tavern system.\r\nAdded norse sword and scabbard, a spear, a shield, and 3 axes.\r\nHopefully made the Aquilonian Longsword more viable on different movesets.\r\nAdded an invisible doorframe.  Note: Still needs to sit on a foundation, untill I can convince it it doesn't need to",
+	"description": "Version: 1.1.20\r\nMod ID: 3734761484\r\n\r\nA server mod for the Ash and Blood server!",
+	"changeNote": "Shrunk the Bidenhander/Spadone.  Was 2.25m, so a bit oversized.  Neww size is aimed at 1.44m, scaled up by 10% for conanisms.\r\nShrunk the \"katana\" aka bastard sword, by less, but still some.\r\nAdded Mainz Gladius for a short sword.\r\nAdded 2 handed mace.\r\nAdded a Partisan for the 2h Spear that I forgot I already had.",
 	"author": "TModano, Fae, Tiktaalik",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 19,
+	"versionBuild": 20,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "3602660980",
 	"steamTestLivePublishedFileId": "",
 	"steamWorkshopFileIds":
 	{
-		"mainClient": "3734761484"
+		"mainClient": "3734761484",
+		"publicBetaClient": "3786514881"
 	},
 	"steamVisibility": 0,
 	"folderName": "ash_and_blood",
 	"devkitRevisionNumber": 1001,
 	"devkitSnapshotId": 0,
 	"fileSize": -800267552,
-	"minimumVersion": "Enhanced"
+	"minimumVersion": "Enhanced",
+	"requestedHttpOrigins": []
 }
